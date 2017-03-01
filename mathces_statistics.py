@@ -9,6 +9,7 @@ import re
 from bs4 import BeautifulSoup
 from random import random
 
+# TEST GIT
 
 def parse(url, params):
     # This method parse the site with teh input credentials, and returns deque-object of named_tuple with the next
